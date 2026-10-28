@@ -1,0 +1,703 @@
+# Trading, refusals, and indoor lines.
+
+[trade]
+Take your time, take your time.
+Everything's fairly priced, I promise.
+That one's a bargain, trust me.
+Hmm. Good choice.
+Looking for anything in particular?
+I give discounts to friends. Are we friends?
+Ooh, that's a popular one.
+Don't haggle, please. It hurts my feelings.
+All goods are final sale.
+I restock every day, you know.
+Hmm. You have an eye for quality.
+Choose wisely.
+That one flies off the shelf.
+My prices are the best in the land.
+Need help deciding?
+Everything here is handmade.
+Come on, buy something.
+Look at the quality! Look!
+You won't find this anywhere else.
+Hmm. Thinking, thinking.
+Don't touch it unless you're buying it.
+That's my favorite one.
+I could go a little lower. No, I couldn't.
+Fresh stock, just in.
+Hmm. Indecisive, are we?
+The emeralds go in the left slot.
+Just between us, that's a steal.
+My grandfather sold those too.
+Quality like this doesn't come cheap.
+You're my best customer today. My only customer, too.
+Hmm. Interesting choice.
+Take a look at the second one.
+Want the deluxe version?
+I've got more in the back. Not really.
+That's a fine pick.
+No refunds. Just so you know.
+Prices go up when the golem's watching.
+Hmm. Something catch your eye?
+Every item is lovingly crafted.
+I'll throw in a smile for free.
+Ooh, you like that one?
+Hurry up, I'm closing soon. Just kidding.
+Buy two, and I'll be twice as happy.
+Hmm. Yes. Excellent.
+Trade with me and you won't regret it.
+Our village's finest goods.
+Let me know if you need anything.
+That's a classic.
+Everyone's been asking about that one.
+Hmm. Let me see your emeralds.
+I'll make it worth your while.
+Look at that craftsmanship.
+You've got good taste, friend.
+That one's been sitting there a while. Cheap!
+Rare item, that one.
+I'm practically giving it away.
+Hmm. Busy day for business.
+Satisfaction guaranteed. Mostly.
+I've been saving that one for you.
+Pick one, any one.
+Hmm. Don't rush. But also hurry.
+My work speaks for itself.
+I take emeralds. Only emeralds.
+That's a fine deal right there.
+Mm-hmm, mm-hmm.
+I'd buy that if I were you.
+Hmm. Decisions, decisions.
+That one is my pride.
+Good, isn't it?
+I have the best stock around.
+Everybody's buying those lately.
+Hmm. You'll love it.
+Honest prices, honest villager.
+Feel free to browse.
+I'm a fair trader, you'll see.
+Hmm. Want my opinion? Take it.
+That price won't last.
+Shall we make a deal?
+Every trade makes me stronger.
+I'll remember this kindness.
+Hmm. I like your style.
+A wise investment.
+Don't tell the others about this price.
+I'm getting better at this every day.
+Hmm. My stock's running low.
+Need anything else?
+Best quality, best price.
+Ah, that one's my best seller.
+Hmm. You've got emeralds, I've got goods.
+Go on, take a closer look.
+Did you know I make these myself?
+Hmm. Smart shopper.
+I can tell you're an expert.
+That one's a little special.
+Hmm. Business is business.
+Looking good, looking good.
+Trading is my passion.
+A pleasure doing business. So far.
+Hmm. Don't overthink it.
+Bargain of the century, right there.
+Just a few emeralds, friend.
+I'll be here all day.
+Hmm. You drive a hard bargain.
+Ah, the eternal question. Which one?
+My goods never disappoint.
+Hmm. That's a tough choice.
+A real treasure, that one.
+I trust you'll pick well.
+You won't find better.
+Hmm. What will it be?
+
+[trade_yes]
+A fine deal!
+Pleasure doing business!
+Thank you kindly!
+Excellent choice!
+Hmm! Yes, yes.
+Enjoy it, friend.
+Wonderful trade!
+You won't regret it!
+Deal!
+Ah, a smart purchase.
+Thank you, come again!
+That's what I like to see.
+Good trade, good friend.
+Hmm. Very nice.
+My pleasure!
+Emeralds! Thank you!
+Splendid!
+You've made my day.
+Happy trading!
+Hmm! Lovely.
+Fair and square.
+Use it well!
+Ooh, thank you!
+Another happy customer!
+That's a done deal!
+Hmm. Satisfied.
+Let's do it again sometime.
+Thanks, friend!
+A marvelous trade.
+I'll treasure these emeralds.
+You've got a good eye.
+Perfect! Just perfect.
+Hmm! That's the spirit.
+May it serve you well.
+Ah, delightful!
+You're my favorite customer now.
+Success!
+Hmm, good, good.
+I'll remember your generosity.
+Great doing business with you.
+Happy to help!
+Ah, a wise investment!
+Wonderful! Simply wonderful.
+Come back soon!
+Hmm! Yes indeed.
+Pleasure's all mine.
+Take good care of it!
+That's a good one!
+Brilliant!
+One more? Please?
+Hmm. A fair exchange.
+Ah, emeralds. Music to my ears.
+Thanks a bunch!
+Trade complete!
+Look at us, making deals.
+Hmm, yes! Wonderful.
+I'm learning so much from you.
+Off you go, enjoy!
+You've earned it.
+That'll do nicely!
+Hmm. Very good indeed.
+I'll tell everyone about you.
+Ah, lovely doing business.
+Bless your emeralds!
+Fantastic!
+Well done!
+Hmm. I feel richer already.
+Ah, that's the stuff!
+Glad you liked it!
+Great choice, really.
+Thank you so much!
+Hmm. A good deal for both of us.
+You're too kind!
+Ah, my day is made.
+You know a good deal.
+Excellent, excellent!
+Hmm! Now that's trading.
+Thank you, traveler!
+That's a keeper!
+It's yours now!
+Hmm. Splendid trade.
+Much obliged!
+Oh, wonderful!
+Delighted, truly.
+Ah, thank you, friend.
+Ooh, emeralds!
+You won't find a better one.
+Hmm! I love trading.
+Another one? I'm ready!
+Thank you, kindly.
+
+[no]
+No, no, no.
+Hmm. I don't think so.
+Not today.
+Absolutely not.
+I'm not interested.
+Hmm. No deal.
+You can't afford that.
+Nope.
+Go away, please.
+Not happening.
+Hmm. Try again later.
+I'm busy.
+I don't trade with you.
+Leave me alone.
+Hmm. No thanks.
+That's not enough.
+You need more emeralds.
+Sorry, I'm closed.
+Hmm. Not for sale.
+I said no.
+Don't push your luck.
+Hmm. Shame.
+I don't like your face.
+That's rude.
+No trades for you.
+Hmm. Disappointing.
+Go bother someone else.
+I'm not in the mood.
+Out of stock, sorry.
+Hmm. Not that one.
+No can do.
+I need more than that.
+Not a chance.
+Hmm. Nope.
+You've been mean to me.
+I remember what you did.
+Stop poking me.
+Hmm. Begone.
+Ask again tomorrow.
+Not so fast.
+I'm resting.
+Hmm. Unacceptable.
+That's too low.
+You must be joking.
+Hmm. Really?
+Shoo!
+Not interested, sorry.
+I'm on break.
+Hmm. Go away.
+You're scaring my customers.
+No refunds, no deals.
+That won't work.
+I can't help you.
+Hmm. Nope, nope.
+Try someone else.
+Come back with emeralds.
+Sorry, friend.
+Hmm. Out of the question.
+No, thank you.
+That's not fair.
+Hmm. I refuse.
+I don't have anything for you.
+Don't make me call the golem.
+Hmm. Not right now.
+Absolutely, positively not.
+I'm sold out.
+You'll have to do better.
+Hmm. Bad timing.
+That's not how this works.
+Please stop.
+Hmm. Not today, friend.
+I'm too tired.
+You owe me.
+Hmm. Nah.
+That's a hard no.
+Let me think. No.
+Nuh-uh.
+Hmm. Pass.
+Not for you.
+No sale.
+
+[hurt]
+Ow!
+Hey!
+Ouch!
+Stop that!
+That hurt!
+Why would you do that?
+Ow, ow, ow!
+Help!
+Ah! My arm!
+Golem! Help!
+What did I do?
+Stop hitting me!
+Ow! Rude!
+Hey, cut it out!
+Ouch! That stings!
+I'm telling the golem!
+Mean!
+You brute!
+Agh!
+Help me!
+Not the face!
+Hey! I'm walking here!
+Ow, my head!
+Why?
+That's not nice!
+Somebody help!
+Ouch, my nose!
+Ah! Stop!
+I thought we were friends!
+Ow! Watch it!
+Hey, that's assault!
+Ow! Okay, okay!
+Ouch! Not again!
+Leave me alone!
+Ah! It burns!
+Ow! My robe!
+Stop it!
+Help! Help!
+You'll pay for that!
+Ow! I'm fragile!
+Ouch, ouch!
+That really hurt!
+Ah! Mercy!
+Hey! Bully!
+Ow! My back!
+I'm bleeding emeralds!
+Stop! Please!
+Ouch! Rude!
+Ah! Golem!
+Oof!
+Ow, careful!
+Hey, I'm innocent!
+Agh! My knee!
+You monster!
+Ouch! No more!
+Ow! What was that for?
+Hey! I'll raise my prices!
+Help, help!
+Ah! Too rough!
+Stop poking!
+Owie!
+Hey! Ouch!
+Mmph! Ow!
+You'll regret this!
+Ah! Not my nose!
+Hey, no!
+Ouch, my ribs!
+Ow! Guards!
+That smarts!
+Ow! Leave me be!
+Ah! Help me!
+Watch it!
+Ow! I just washed this robe!
+Hey! Manners!
+Oof! My stomach!
+Ouch! I'm calling my mom!
+Ow, my feelings!
+Ah! What's wrong with you?
+Hey! Stop it now!
+Agh! Why me?
+Ow! Not fair!
+Ouch! I'm telling!
+Help! Assault!
+Ah! Stop, stop!
+Hey! Back off!
+Oof! That's gonna bruise!
+Ow! Please, no more!
+Ah! Unprovoked!
+Hey! I have a family!
+Ouch! Have mercy!
+Ow! That was uncalled for!
+Ah! My hat!
+Hey! You meanie!
+Oof! Again?
+Ouch! I'm soft!
+Ow! Stop that at once!
+Agh! I'm hurt!
+Hey! You'll scare the kids!
+Ouch! I didn't do anything!
+Ow! Iron golem!
+Ah! The pain!
+Hey! Let me go!
+Mm! Ow!
+Ouch! Stop it, please!
+Ow! I bruise easily!
+Ah! Not again!
+Hey! What's your problem?
+Oof! Right in the gut!
+Ouch! You're cruel!
+Ow! Somebody stop them!
+Ah! I'm sorry, I'm sorry!
+Hey! My emeralds!
+Agh! Enough!
+Ow! That's not trading!
+Ouch! My poor head!
+Ah! Help, monsters!
+Hey! Watch the nose!
+Oof! Ouch!
+Ow! I'm just a villager!
+Ah! Stop it!
+Hey! Not cool!
+Ouch! Golem, now!
+Ow! You're horrible!
+Ah! Uncalled for!
+Hey! Calm down!
+Oof! My dignity!
+Ouch! Seriously?
+Ow! I'll remember this!
+Ah! Too much!
+Hey! Peace, please!
+Ouch! That's my good side!
+Ow! Hurts!
+Ah! Back off!
+Hey! I'm a pacifist!
+Oof! Unfair!
+Ouch! Ouch! Ouch!
+Ow! Leave me alone!
+Ah! You beast!
+Hey! I'm only a trader!
+Ouch! No more, please!
+Ow! Help me, someone!
+Ah! My poor robe!
+Hey! Stop, please!
+Oof! That really stung!
+Ouch! I'm wounded!
+Ow! Spare me!
+Ah! Why?
+Hey! That's enough!
+Ouch! You'll pay!
+Ow! Somebody!
+Ah! Stop hurting me!
+Hey! Ouch!
+
+[death]
+Ugh. I'm done for.
+Tell my family I loved them.
+Ahh, the end.
+Goodbye, cruel world.
+Why? Why me?
+My emeralds. Take care of them.
+I see a bright light.
+Avenge me, golem.
+This is it.
+Not like this.
+I never got to trade diamonds.
+Remember me.
+Ahh, so cold.
+I'll haunt you.
+Farewell, village.
+I should have stayed inside.
+Ugh. Goodbye.
+My poor crops.
+Tell the librarian to return my book.
+So this is how it ends.
+I had so much to sell.
+Golem, you failed me.
+I'm going to a better village.
+Ahh, darkness.
+My bed. Give it away.
+Don't forget me.
+I see grandpa.
+The end. Hmm.
+Who will tend the fields now?
+I was so close to master level.
+Goodbye, friends.
+Ugh. It's over.
+Tell my cat I said bye.
+My last trade.
+Was it something I said?
+I'm fading.
+Sleep, at last.
+Oh no. Oh no.
+It's getting dark.
+Bury me with my emeralds.
+So much left to do.
+Help, I'm going.
+I regret nothing. Mostly.
+Ugh. Not fair.
+Tell the traveler I forgive them.
+Ahh, the void.
+My village. My home.
+Tell the children to be brave.
+I'll see you on the other side.
+Oh. Goodbye.
+Ahh, my legs.
+Hmm. So this is death.
+I wanted to see the ocean.
+Gone too soon.
+I'll respawn. Won't I?
+Goodbye, sun.
+It was a good life.
+Farewell, bell.
+Tell the farmer his pie was good.
+No more trades.
+
+[celebrate]
+We did it! We won!
+Hooray! The raid is over!
+Victory! Victory!
+Woohoo! We survived!
+The pillagers are gone!
+Ring the bells! We're safe!
+Three cheers for the hero!
+Party time!
+We're alive! We're alive!
+Take that, pillagers!
+Hooray for the village!
+Celebrate, everyone!
+We beat them!
+Yippee!
+Fireworks! Somebody bring fireworks!
+The village stands strong!
+Never come back, raiders!
+Dance, everyone!
+We showed them!
+Hip, hip, hooray!
+What a victory!
+Safe at last!
+Our hero saved us!
+Let's feast tonight!
+They ran away!
+The village is ours!
+Cheers!
+The ravager is dead!
+Yay! Yay!
+Long live the village!
+Oh, happy day!
+Free at last!
+Pillagers, zero. Village, one!
+Let's throw a party!
+We're the champions!
+Woo! Hoo!
+The bells ring for victory!
+Hug everyone!
+I'm so happy!
+We're unstoppable!
+Today we celebrate!
+Raiders beware!
+Hooray, hooray!
+Best day ever!
+The village lives on!
+Jump for joy!
+Peace returns!
+Thank the hero!
+Victory tastes sweet!
+Woohoo! Peace again!
+
+[cured]
+I'm me again! Thank you!
+What happened? Was I a zombie?
+I feel so much better.
+Thank you for saving me!
+I'm cured! I'm cured!
+I don't want brains anymore. Good sign.
+My skin isn't green! Wait, it never was.
+You brought me back. I owe you.
+Ugh, I had the worst dream.
+I can see clearly now.
+No more groaning! Wonderful!
+Thank you, kind stranger!
+I'll give you the best prices forever.
+I'm alive again!
+Golden apple? Delicious and life saving.
+I thought I was lost forever.
+You're my hero!
+I'm not hungry for flesh anymore. Phew.
+The sun doesn't burn me now!
+Bless you, traveler.
+I remember everything. Ugh.
+I feel human. Well, villager.
+I can trade again!
+Thank you for not giving up on me.
+I'll never forget this.
+Back to my old self!
+Wow. That was a strange experience.
+Let me hug you! Wait, I still smell funny.
+You saved my life!
+The cure worked!
+
+[baby_hurt]
+Ow! Mommy!
+Owie!
+That hurt!
+Waaah!
+Meanie!
+I'm telling!
+Ouch! Stop!
+Help! Mom!
+Ow, ow, ow!
+Not fair!
+Bully!
+Waaah! Golem!
+Stop it!
+I want my mommy!
+Ouchie!
+Hey! Stop!
+Ow! I'm little!
+Leave me alone!
+Help me!
+Sniff. That hurt.
+
+[greet_indoors]
+Oh! You're in my house.
+Make yourself at home. But not too at home.
+Welcome to my humble home.
+Hello. Please wipe your feet.
+Don't touch my chest, please.
+You came in without knocking?
+Ah, a house guest. How nice.
+Hello. Sorry about the mess.
+Mind the bed, I just made it.
+Cozy in here, isn't it?
+Hello. Did you close the door behind you?
+Shh. Someone's sleeping.
+Welcome in. Want to sit down?
+Hello. This is my favorite room.
+You're inside! Hiding from zombies too?
+Oh, hello. I wasn't expecting company.
+Hello. Don't break any windows, please.
+Welcome. It's not much, but it's home.
+Hello. That's my bed, by the way.
+Ah, hello. Warm in here, isn't it?
+Hello. Please don't take my door.
+Visiting me at home? How sweet.
+Hello. I just cleaned the floor.
+Welcome. The roof doesn't leak. Much.
+Hello. Careful with the furnace.
+Ah, you found my hiding spot.
+Hello. Indoors is the safest place.
+Welcome. Stay as long as you like.
+Hello. Please don't dig through my floor.
+Ah, a guest. I'll put the kettle on. If I had one.
+Hello. You're tracking mud everywhere.
+Welcome. Mind your head.
+Hello. My house, my rules.
+Oh, hi. Are you moving in?
+Hello. It's nice to have company.
+Welcome. Don't mind the cobwebs.
+Hello. Are you lost? This is a bedroom.
+Ah, hello, roommate.
+Hello. Please knock next time.
+Welcome. Stay out of the rain in here.
+
+[ambient_indoors]
+Nice and cozy in here.
+I should tidy up.
+Did you just look in my chest?
+It's so peaceful indoors.
+These walls keep the zombies out.
+I love my little house.
+Mind the bed.
+Hmm. This room needs a painting.
+Don't break anything, please.
+You're welcome to stay. For a bit.
+I should add more torches in here.
+My house is your house. Temporarily.
+Shh. The neighbors can hear us.
+The floorboards creak there.
+I like having a roof over my head.
+Hmm. Someone should sweep.
+That's my favorite chair. Well, block.
+Are you going to stay the night?
+It's warm by the furnace.
+Close the door, there's a draft.
+Hmm. Do you hear rain on the roof?
+I built this house myself. Mostly.
+I could use a bigger window.
+You're standing on my carpet.
+Hmm. Cozy.
+Home is where the bed is.
+Please don't take anything.
+I like it quiet in here.
+Do you like what I've done with the place?
+It's a bit cramped with two.
+Hmm. Indoor weather is always nice.
+I keep my emeralds hidden in here. Somewhere.
+Don't open that chest.
+This is where I nap.
+Safe and sound inside.
+Hmm. You're a quiet house guest.
+I should put in a second bed.
+Mind the lantern.
+The walls are thin, you know.
+Hmm. Smells like dinner.
+Can you fix the roof while you're here?
+I like my little window.
+Don't stand so close to the door.
+Do you live nearby?
+My cat sleeps right there.
+Hmm. This is nice.
+Please don't build anything in here.
+Not much space, but it's home.
+Wipe your boots next time.
+It's nice to have company indoors.

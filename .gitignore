@@ -1,0 +1,53 @@
+# gradle
+
+.gradle/
+build/
+out/
+classes/
+
+# eclipse
+
+*.launch
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
+*.DS_Store
+
+# fabric
+
+run/
+
+# java
+
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# dev client logs
+logs/
+
+# raw TTS clips (~1 GB of WAV); the encoded .ogg files in src/ are tracked
+tools/tts-cache/
+tools/tts-samples/
+
+# secrets
+.env
+
+# backups of previously generated audio
+audio-backup/

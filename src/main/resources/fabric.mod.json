@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "talkingvillagers",
+	"version": "${version}",
+	"name": "Talking Villagers",
+	"description": "Villagers speak out loud: greetings, gossip, trade banter, complaints about the weather, and panic when zombies or pillagers show up. Over 2000 voiced lines in 8 adult voices plus child voices. Client-side, driven by vanilla villager sound events, so it costs nothing per tick.",
+	"authors": ["doctorthe113"],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["dev.doctorthe113.talkingvillagers.TalkingVillagersClient"],
+		"modmenu": ["dev.doctorthe113.talkingvillagers.ModMenuIntegration"]
+	},
+	"mixins": ["talkingvillagers.mixins.json"],
+	"suggests": {
+		"modmenu": "*"
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

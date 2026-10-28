@@ -1,0 +1,628 @@
+# Profession lines.
+# greet_<profession>: spoken on right-click.
+# ambient_<profession>: idle chatter.
+# work_<profession>: spoken while working at the job site.
+
+[greet_armorer]
+Hello! Need something to keep you alive?
+Welcome. My armor has saved more lives than I can count.
+Ah, a customer. Your chestplate looks dented.
+Greetings. Iron, chain, or diamond today?
+Hello. Let me guess, you need a helmet.
+Step up. I'll fit you for some proper protection.
+Hello! A good shield is a good friend.
+Welcome to the forge. Mind the heat.
+Ah, hello. Took a beating out there, did you?
+Greetings, traveler. Armor's the best investment you'll make.
+Hello. That leather tunic won't stop an arrow.
+Welcome! Freshly hammered plates, just for you.
+Hello. I can hear your armor squeaking from here.
+Greetings. Diamonds make the best boots, you know.
+Ah, a warrior. You'll want my finest.
+Hello. Bring me coal and I'll treat you right.
+Welcome. Nobody leaves my stall unprotected.
+Hello! I've got a helmet with your name on it.
+Greetings. Iron golems are jealous of my work.
+Hello. Let's get you suited up.
+
+[greet_butcher]
+Hello! Fresh meat, cut this morning.
+Welcome. Hungry? Of course you are.
+Ah, a customer. Pork chop? Steak?
+Greetings! Bring me chickens and I'll pay you well.
+Hello. Don't ask where the sausages come from.
+Welcome to the best smoked meat in the village.
+Hello! You look like you need a hearty meal.
+Greetings. The smoker's been going all day.
+Ah, hello. Mutton or rabbit stew today?
+Hello! My cooked porkchops are famous.
+Welcome. Mind the drips, I just cleaned the smoker.
+Greetings, friend. Got any raw beef for me?
+Hello. Nothing beats a good steak after a long day.
+Ah, a meat lover. I can tell.
+Hello! Rabbit stew, fresh and warm.
+Welcome. Sweet berries? I'll take them.
+Hello. The pigs aren't fond of me.
+Greetings. Kelp? Bring me dried kelp blocks.
+Hello. Eat well, fight well. That's my motto.
+Ah, hello. I saved you a nice cut.
+
+[greet_cartographer]
+Hello, explorer! Need a map?
+Welcome. The world is bigger than you think.
+Greetings! I've mapped every hill for miles.
+Hello. Looking for something hidden? I know where.
+Ah, a traveler. Tell me where you've been.
+Welcome. I have maps to places you wouldn't believe.
+Hello! Ocean monuments, woodland mansions, take your pick.
+Greetings. Bring me paper and I'll make it worth your while.
+Hello. Don't get lost now. Buy a map.
+Welcome, adventurer. The edges of the world await.
+Ah, hello. My ink is still wet on this one.
+Hello. I drew you on my map. Tiny, but it's you.
+Greetings. Every map tells a story.
+Hello! Banners to mark your way?
+Welcome. North is that way. Probably.
+Hello. Glass panes for my windows? I'd pay well.
+Greetings, friend. Ever seen a mansion in the dark forest?
+Hello. I've never actually left the village. Shh.
+Ah, a fellow explorer. Welcome.
+Hello. Need a compass? I've got plenty.
+
+[greet_cleric]
+Blessings upon you, traveler.
+Welcome. Seek you potions, or wisdom?
+Greetings, child. The stars watch over you.
+Hello. Ender pearls, glowstone, redstone. All blessed.
+Ah, hello. I sensed your arrival.
+Welcome. Bring me rotten flesh and I'll purify it.
+Greetings. May your path be well lit.
+Hello. I've been brewing something strange.
+Peace be with you, friend.
+Welcome. Lapis lazuli? Ah, the gem of wisdom.
+Hello. The brewing stand bubbles with promise.
+Greetings, seeker. What troubles you?
+Ah, a lost soul. Welcome.
+Hello. Bottles o' enchanting, freshly made.
+Welcome. Zombie flesh is quite useful, you know.
+Greetings. I've seen omens in the clouds.
+Hello. Nether wart? Bring me some if you find it.
+Blessings, traveler. Stay safe in the dark.
+Hello. I pray for your safe return.
+Ah, welcome. The rabbit's foot brings luck.
+
+[greet_farmer]
+Hello! Fresh crops, straight from the field.
+Welcome! Mind the wheat, it's almost ready.
+Greetings! Bring me carrots, I'll pay emeralds.
+Hello. Bread, pies, cookies. Take your pick.
+Ah, a visitor. Hungry?
+Welcome to the farm. Don't step on the farmland.
+Hello! My pumpkins are the biggest in the land.
+Greetings. Got any potatoes? I'm running low.
+Hello, friend. The harvest was good this year.
+Welcome. Golden carrots, for the fancy folk.
+Hello! Beetroot? I've got plenty.
+Greetings. Melons, sweet and juicy.
+Ah, hello. Bonemeal makes everything grow faster.
+Hello. I've got dirt under my nails and I'm proud of it.
+Welcome. Pumpkin pie, fresh from the oven.
+Hello! You look like a wheat person.
+Greetings. Sun, water, and patience. That's farming.
+Hello. Rabbits keep eating my carrots.
+Welcome, friend. Want an apple?
+Ah, hello. The composter's been busy.
+
+[greet_fisherman]
+Hello! The fish are biting today.
+Welcome. Smell that? Fresh cod.
+Greetings, traveler. Need a fishing rod?
+Hello. Bring me string and coal, I'll make it worth it.
+Ah, a visitor. Do you fish?
+Welcome! Salmon, cod, or something exotic?
+Hello. I caught a boot this morning. Want it?
+Greetings. Tropical fish? I love the colors.
+Hello! Campfires for cooking your catch.
+Welcome. Patience is the secret to fishing.
+Ah, hello. You scared away my fish.
+Hello! A boat is a fisherman's best friend.
+Greetings. I've seen things in the deep water.
+Hello. Pufferfish? Don't eat those raw.
+Welcome, friend. The ocean provides.
+Hello. I've got an enchanted rod, if you're interested.
+Greetings. My barrel is full of fish.
+Hello! The river's calm today.
+Ah, hello. Ever caught a treasure? I have.
+Welcome. Smells fishy around here. That's me.
+
+[greet_fletcher]
+Hello! Arrows, bows, crossbows. Ready for battle?
+Welcome. My arrows fly true.
+Greetings! Bring me sticks and I'll pay you.
+Hello. Feathers? Flint? I'll take them.
+Ah, an archer. I can tell by your stance.
+Welcome. Tipped arrows, for special occasions.
+Hello! A good bow is a work of art.
+Greetings. Tripwire hooks, too, if you need them.
+Hello. Skeletons wish they had my arrows.
+Welcome, hunter. What are we hunting today?
+Ah, hello. Careful, those arrows are sharp.
+Hello! Crossbows are all the rage now.
+Greetings. Straight shafts and sharp points.
+Hello. I fletch every arrow by hand.
+Welcome. Strings? I always need strings.
+Hello! Want a bow with a little magic in it?
+Greetings, marksman. Show me your aim.
+Hello. Don't point that bow at me, please.
+Ah, welcome. The best arrows in the realm.
+Hello. Targets are on sale today.
+
+[greet_leatherworker]
+Hello! Need a new tunic?
+Welcome. Fine leather, finely stitched.
+Greetings! Bring me leather and I'll pay you.
+Hello. A saddle? I've got one for you.
+Ah, a customer. Your boots look worn.
+Welcome. Dyed leather, any color you like.
+Hello! Horse armor, made with love.
+Greetings. Rabbit hide makes the softest gloves.
+Hello. I can smell the cauldron from here. Sorry.
+Welcome, traveler. Leather never goes out of style.
+Ah, hello. Flint? I need flint for my tools.
+Hello! Leather pants are very fashionable.
+Greetings. Scutes? Bring me turtle scutes.
+Hello. Every stitch is perfect.
+Welcome. Light armor for quick feet.
+Hello! A leather cap suits you.
+Greetings, friend. Bundles are my specialty now.
+Hello. The cows aren't happy about my job.
+Ah, welcome. Tanned this batch myself.
+Hello. Rabbit hide, rabbit hide. Always rabbit hide.
+
+[greet_librarian]
+Hello. Please speak quietly in the library.
+Welcome. Seeking knowledge?
+Greetings. I have enchanted books, if you're interested.
+Hello. Bring me paper and I'll be grateful.
+Ah, a reader. Welcome.
+Welcome. Mending? Unbreaking? Let's see.
+Hello. Shh. Books are sleeping.
+Greetings, scholar. What shall we learn today?
+Hello. I've read every book in this village. Twice.
+Welcome. Bookshelves, lanterns, clocks. I have them all.
+Ah, hello. Mind the ink.
+Hello! A name tag? Very useful.
+Greetings. Knowledge is the greatest treasure.
+Hello. Ink sacs, please. I always run out.
+Welcome. My lectern is my pride and joy.
+Hello. Ever read a book about yourself?
+Greetings. Compasses and maps are the cartographer's job, not mine.
+Hello. Glass? For my reading spectacles, of course.
+Ah, welcome. Sit, read, but don't fold the pages.
+Hello. I've been waiting for someone curious.
+
+[greet_mason]
+Hello! Need some stone?
+Welcome. Polished granite? Terracotta?
+Greetings! Bring me clay and I'll pay you well.
+Hello. Bricks, straight from the kiln.
+Ah, a builder. I can tell by your hands.
+Welcome. Quartz pillars for a fancy house?
+Hello! Glazed terracotta, all the colors.
+Greetings. Every great castle starts with one block.
+Hello. Chiseled stone, smooth as silk.
+Welcome, builder. What are we making today?
+Ah, hello. Mind the dust.
+Hello! Dripstone? Diorite? Don't say diorite.
+Greetings. Stone lasts forever. Almost.
+Hello. My stonecutter never stops.
+Welcome. A good wall keeps the zombies out.
+Hello! Andesite is underrated.
+Greetings, friend. Building something big?
+Hello. I built half this village myself.
+Ah, welcome. Bricks are my love language.
+Hello. Need a block of quartz? Two?
+
+[greet_shepherd]
+Hello! Fresh wool, all colors.
+Welcome. My sheep are the fluffiest.
+Greetings! Bring me wool, I'll pay you.
+Hello. A bed? I've got beds in every color.
+Ah, a visitor. Want a painting?
+Welcome. Carpets for your floors?
+Hello! Shears are the shepherd's best tool.
+Greetings. Pink sheep are rare, you know.
+Hello. Banners, made from my finest wool.
+Welcome, friend. Mind the sheep.
+Ah, hello. Dye? I need lots of dye.
+Hello! A soft bed for a tired traveler.
+Greetings. My sheep have names. All of them.
+Hello. The loom is singing today.
+Welcome. White wool is classic.
+Hello! Want to pet a sheep? They're friendly.
+Greetings. Paintings to brighten your home.
+Hello. The wolves keep eyeing my flock.
+Ah, welcome. Lambs are so adorable.
+Hello. Woolly, warm, and wonderful.
+
+[greet_toolsmith]
+Hello! Need a new pickaxe?
+Welcome. My tools never break. Well, rarely.
+Greetings! Bring me iron and coal.
+Hello. Axes, shovels, hoes. All sharp.
+Ah, a miner. I can tell by the dust.
+Welcome. A diamond pickaxe? I have one.
+Hello! Bells? Yes, I make those too.
+Greetings. Good tools make good work.
+Hello. Your pickaxe looks tired.
+Welcome, worker. What are you digging today?
+Ah, hello. Mind the anvil.
+Hello! Enchanted tools, for the serious crafter.
+Greetings. Flint, please. Lots of flint.
+Hello. Every tool tells a story.
+Welcome. A sharp axe saves time.
+Hello! Want to see my smithing table?
+Greetings, friend. Netherite? I wish.
+Hello. Stone tools are for beginners.
+Ah, welcome. Hammer and tongs, that's me.
+Hello. Need your tools repaired? Buy new ones.
+
+[greet_weaponsmith]
+Hello! Need a sword?
+Welcome. My blades are the sharpest.
+Greetings! Bring me iron and I'll pay you.
+Hello. Axes for battle, not for trees.
+Ah, a warrior. Welcome.
+Welcome. Enchanted swords, if you've got the emeralds.
+Hello! A good blade is a fighter's soul.
+Greetings. Pillagers fear my swords.
+Hello. Careful, everything here is sharp.
+Welcome, fighter. Who are we fighting today?
+Ah, hello. The grindstone is working hard.
+Hello! A diamond sword? Only the best for you.
+Greetings. Never leave home without a weapon.
+Hello. I forge each blade by hand.
+Welcome. Flint and coal, please.
+Hello! Want to test the edge? Don't.
+Greetings, warrior. Show me your swing.
+Hello. Iron swords are reliable.
+Ah, welcome. Battle ready, always.
+Hello. Need a blade for zombies? I've got one.
+
+[ambient_armorer]
+Hmm. This helmet needs another rivet.
+Iron's getting expensive these days.
+I wonder if the golem needs armor.
+My blast furnace is the hottest in town.
+Chain armor is so noisy.
+I made a diamond chestplate once. Beautiful.
+Shields. Everyone wants shields.
+I should polish that breastplate.
+Nobody appreciates a well-fitted helmet.
+My arms ache from all this hammering.
+Leather armor. Pfft. Amateurs.
+Netherite. One day, I'll work with netherite.
+
+[ambient_butcher]
+Hmm. Need more pork chops.
+The smoker's running hot today.
+Smells good in here, doesn't it?
+I wonder if the pigs know.
+Rabbit stew for dinner again.
+Chickens. So many chickens.
+Who stole my steak?
+I should try smoking kelp.
+Beef, mutton, pork. A balanced diet.
+The farmer won't share his carrots.
+My apron needs washing.
+Sweet berries with steak? Hmm. Interesting.
+
+[ambient_cartographer]
+Where did I put that map?
+I think I drew that river wrong.
+North is that way. Or that way.
+So many places I've never seen.
+Glass panes. I need more glass panes.
+I should map the dark forest someday.
+The ocean is so big. So big.
+My ink is running dry.
+I wonder what's past the mountains.
+Explorers never bring back maps.
+Hmm. This mansion looks spooky.
+Compasses always point home. Comforting.
+
+[ambient_cleric]
+The stars are restless.
+I sense dark energy nearby.
+Need more rotten flesh. Hmm.
+The brewing stand needs cleaning.
+Redstone dust everywhere.
+I dreamed of the End last night.
+Glowstone. So pretty.
+Blessings to all who pass.
+My potions are bubbling nicely.
+Who knocked over my bottles?
+The moon speaks to me.
+Lapis, lapis, so much lapis.
+
+[ambient_farmer]
+The wheat's coming in nicely.
+I should plant more carrots.
+Rabbits. Always the rabbits.
+Bonemeal's running low.
+I love the smell of fresh soil.
+Those crows better stay away.
+Pumpkin pie for dinner. Yum.
+I wonder if beetroots have feelings.
+The composter's almost full.
+Rain would be nice for the crops.
+Potatoes, potatoes, potatoes.
+I've been bending over all day. My back hurts.
+
+[ambient_fisherman]
+The fish are hiding today.
+I need new string.
+Cod, cod, salmon, cod.
+I caught a pufferfish yesterday. Ouch.
+The river's calling to me.
+Smells like fish in here. Wonderful.
+My boat needs patching.
+I wonder what lives in the deep ocean.
+Tropical fish are too pretty to eat.
+Patience. Always patience.
+I almost caught a treasure once.
+Where did I put my bait?
+
+[ambient_fletcher]
+Feathers everywhere.
+This arrow is crooked. Hmm.
+I need more sticks.
+Crossbows are so popular these days.
+Flint, feathers, sticks. Repeat.
+A skeleton stole my arrows once.
+My bowstring snapped. Again.
+Perfect aim takes practice.
+I wonder if chickens mind.
+Tipped arrows. Very tricky.
+Shh. I'm concentrating.
+That target is mine.
+
+[ambient_leatherworker]
+More leather, more leather.
+The cauldron smells awful today.
+I need more dye.
+Rabbit hide is so soft.
+Who wants a saddle?
+My needle's dull.
+Leather boots are underrated.
+I should make a bundle.
+The cows look at me funny.
+Horse armor sells well.
+Brown, brown, always brown.
+This stitch is perfect. Beautiful.
+
+[ambient_librarian]
+Shh. Quiet in here.
+I've lost my place in the book.
+Mending. Everyone wants mending.
+Paper, I need more paper.
+This book is fascinating.
+Who put this book on the wrong shelf?
+Ink, ink, I need ink.
+The lectern is creaking again.
+I wonder what's in the stronghold library.
+One more chapter, then bed.
+Knowledge is power.
+Someone dog-eared my book!
+
+[ambient_mason]
+Stone, stone, and more stone.
+I need more clay.
+Bricks don't lay themselves.
+This wall is crooked. Hmm.
+Terracotta comes in so many colors.
+Diorite. Ugh.
+Quartz is so elegant.
+I built that house over there.
+My stonecutter's dull.
+Dust everywhere. Achoo.
+Andesite? Underrated.
+A good foundation is everything.
+
+[ambient_shepherd]
+The sheep are restless today.
+I need to shear the white one.
+Wool, wool, wool.
+Pink sheep are my favorite.
+That wolf better stay away.
+I should dye that sheep blue.
+Soft beds for everyone.
+My loom needs threading.
+I counted the sheep. Fell asleep.
+Baa. Sorry, habit.
+Paintings sell well lately.
+Lambs are so cute.
+
+[ambient_toolsmith]
+This pickaxe needs sharpening.
+I need more iron.
+Hammers, hammers, hammers.
+The bell needs polishing.
+Diamond tools sell fast.
+Coal, coal, more coal.
+My anvil is chipped.
+Stone tools. Hmm. Cheap.
+Who borrowed my hoe?
+Sharp tools, happy workers.
+I wonder about netherite.
+My smithing table is a mess.
+
+[ambient_weaponsmith]
+This blade is perfect.
+I need more iron.
+The grindstone never rests.
+Pillagers fear my swords.
+Sharp, sharper, sharpest.
+Axes or swords? Hmm.
+My forge is too hot.
+I should make a diamond sword.
+Battle never changes.
+Who dulled my best blade?
+Enchanted weapons sell well.
+A good sword is a good friend.
+
+[work_armorer]
+Hammer, hammer, hammer.
+A little more heat. There.
+This plate's almost done.
+Steady hands, strong armor.
+One more rivet.
+The furnace is perfect today.
+Hmm. Needs more polish.
+Clang, clang, clang.
+There we go. Beautiful.
+Done. Next helmet.
+
+[work_butcher]
+Into the smoker you go.
+Mmm, smells delicious.
+Just a little more smoke.
+Perfectly cooked.
+Another batch done.
+Chop, chop.
+Careful, it's hot.
+Golden brown. Perfect.
+That'll feed the village.
+Ah, the smell of success.
+
+[work_cartographer]
+A little line here.
+Hmm. Mountains go there.
+Mark the river. Done.
+Steady, steady.
+Another map complete.
+North, south, east, west.
+The ink's drying nicely.
+Careful with the paper.
+There's the ocean. Big blue.
+Perfect. A masterpiece.
+
+[work_cleric]
+Bubble, bubble.
+A pinch of redstone.
+Careful, careful.
+Hmm. That smells strong.
+The potion is ready.
+Blessed be this brew.
+Three drops. No more.
+Glowstone, then stir.
+It's glowing. Good sign.
+Another bottle filled.
+
+[work_farmer]
+Into the composter.
+Plant, water, wait.
+Good soil, good harvest.
+Another seed in the ground.
+Hmm. Needs more bonemeal.
+The wheat's looking healthy.
+Pick, plant, repeat.
+Ah, fresh carrots.
+Grow, little ones, grow.
+That's a good crop.
+
+[work_fisherman]
+Clean the fish, salt the fish.
+Into the barrel.
+Another fine catch.
+Hmm. Smells fresh.
+Barrel's almost full.
+Cod goes here, salmon there.
+Steady work.
+The sea provides.
+Done. Next fish.
+Nice and tidy.
+
+[work_fletcher]
+Feather here, point there.
+Straight and true.
+Another arrow done.
+Steady hands.
+Tie the string. Tight.
+Hmm. Perfect balance.
+Careful, it's sharp.
+Notch, fletch, done.
+That one will fly far.
+Next arrow.
+
+[work_leatherworker]
+Stitch, stitch, stitch.
+Into the cauldron.
+A little more dye.
+Hmm. Smooth leather.
+Tight seams.
+Almost done.
+That's a fine tunic.
+Careful with the needle.
+Another piece ready.
+Perfect fit.
+
+[work_librarian]
+Page one. Page two.
+Careful with the ink.
+Another book shelved.
+Hmm. Fascinating.
+Write it down.
+The lectern's perfect.
+Neat handwriting, always.
+A new chapter begins.
+Done. Next book.
+Knowledge saved.
+
+[work_mason]
+Cut, cut, cut.
+Smooth stone. Good.
+Another brick done.
+Hmm. Needs polish.
+Perfect edges.
+Steady, steady.
+This one's for the wall.
+Chip, chip.
+Done. Beautiful.
+Next block.
+
+[work_shepherd]
+Spin the wool.
+Thread, thread, thread.
+Another color done.
+Hmm. Soft.
+The loom's humming.
+Perfect pattern.
+A banner for the bell.
+Steady weaving.
+Done. Lovely.
+Next one.
+
+[work_toolsmith]
+Sharpen, sharpen.
+Hammer down.
+Another pickaxe done.
+Hmm. Strong handle.
+Perfect edge.
+Steady, steady.
+That'll dig deep.
+Clang, clang.
+Done. Next tool.
+Fine work.
+
+[work_weaponsmith]
+Sharpen the edge.
+Grind, grind, grind.
+Another blade done.
+Hmm. Deadly.
+Perfect balance.
+Steady hands.
+That'll stop a pillager.
+Sparks flying.
+Done. Next sword.
+Fine steel.

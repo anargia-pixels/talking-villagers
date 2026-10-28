@@ -1,0 +1,9 @@
+{
+	"required": true,
+	"package": "dev.doctorthe113.talkingvillagers.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": ["EntityRendererMixin", "EntityRenderStateMixin", "SoundManagerMixin"],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

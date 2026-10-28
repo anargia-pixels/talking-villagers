@@ -1,0 +1,421 @@
+# Spoken when the player right-clicks a villager.
+# One line per entry. Blank lines and lines starting with # are ignored.
+# Line ids come from the order inside each [section], so append new lines
+# at the end of a section to keep existing audio files valid.
+
+[greet]
+Oh! Hello there, traveler.
+Welcome, welcome. Mind the crops.
+Ah, a visitor. We don't get many of those.
+Good day to you, stranger.
+Hello! Have you come to trade?
+Well met, friend.
+Oh, it's you again. Hello.
+Greetings. Lovely weather for walking, isn't it?
+Hello, hello. What can I do for you?
+You look like you've traveled far.
+Ah! You startled me. Hello.
+Welcome to our little village.
+Hmm? Oh, hello.
+Come to see the finest wares in the village?
+Good to see a friendly face.
+Hello, adventurer. Keep your sword sheathed, please.
+Greetings, friend. Watch where you step.
+Oh, hello. I was just thinking about lunch.
+Hi there. Are you lost?
+Welcome! Don't mind the chickens.
+Back again? I like a loyal customer.
+Hello. Please don't break anything this time.
+Oh, a new face. How exciting.
+Good to meet you. I'm terribly busy, but go on.
+Ah, the traveler everyone keeps talking about.
+Hello! Did you bring any emeralds?
+Greetings. You smell like a cave.
+Ah, hello. You've got dirt on your boots.
+Well, look who wandered in.
+Hello, friend. Stay a while.
+Can I help you with something?
+Hello. You aren't a pillager, are you?
+Oh good, it's not a zombie. Hello!
+Welcome, stranger. The bell is for emergencies, by the way.
+What brings you to our village?
+Good to see you in one piece.
+Hello there. Nice armor.
+Oh, hello. Is that a new pickaxe? Very fancy.
+Greetings, traveler. Rest your feet.
+Hello! You're just in time.
+Ah, a customer. My favorite kind of person.
+Hello. I have wares, if you have coin.
+Oh! Didn't hear you coming. Hello.
+Welcome, friend. Have you eaten?
+Hello there. The golem likes you, so I suppose I do too.
+Greetings. Please don't trample the wheat.
+Ah, hello again. How are your travels?
+Well, hello. Don't stand so close.
+Nice to see you. Truly.
+Good day! The sun is shining and so am I.
+Hello. Quiet day in the village today.
+Greetings, wanderer. Find anything shiny out there?
+Hmm. You again. Hello.
+Hello! Shall we talk business?
+Oh, hi. I was just about to take a nap.
+Welcome back. We missed you. Sort of.
+Hello, friend. Want to hear some gossip?
+Ah, a traveler with good taste. Hello.
+Greetings. Ever seen a village this tidy?
+Hello. Watch out for the cat, she bites.
+Good to see you. The village feels safer with you around.
+Hi! You look strong. Can you carry things?
+Oh, hello. Lovely day, isn't it?
+Greetings, friend. What do you need?
+Hello. Did you close the gate behind you?
+Ah, the hero of the hour. Or minute, anyway.
+Hello! Don't mind me, I'm just standing here.
+Welcome, traveler. Don't touch the bell.
+Hello there. You have very square shoulders.
+Good day. You seem trustworthy. Mostly.
+Ah, hello. I was hoping someone would stop by.
+Hello. Business has been slow. Help me out?
+Greetings. Do you know any good jokes?
+Oh, hello. Is something on fire?
+Welcome, welcome. Wipe your feet first.
+Hello, stranger. What news from the outside?
+Hi. I've been standing here for hours.
+Hello! You walked right up to me. Bold.
+Greetings. I trust you mean no harm.
+Hello there. I like your hat. Wait, you don't have one.
+Good to see you, friend. Mind the well.
+Hello. Ready to make a deal?
+Oh, a visitor! Quick, look busy.
+Hello. You look like you need a bed.
+Greetings, friend. The village is honored.
+Hello, hello, hello.
+Oh, it's the one who keeps digging holes. Hello.
+Welcome. We've got food, beds, and very few zombies.
+Hello. Are you here to stay or just passing?
+Greetings, traveler. The roads are dangerous lately.
+Hi there. Want to see something interesting? Me neither.
+Hello! I've been practicing my greeting. How was it?
+Ah, hello. You have the look of someone with emeralds.
+Good day, friend. I hope your travels were kind.
+Hello. Please be gentle with the doors.
+Greetings. Nice weather for adventuring.
+Hello! Fancy meeting you here.
+Oh, hello. Do you need directions?
+Welcome to the village. Population: growing.
+Hello. Don't let the iron golem frighten you.
+Greetings. Are you the one who built that dirt tower?
+Hi! It's a fine day to trade.
+Ah, hello. You look tired. Sit down a moment.
+Hello, friend. Take whatever you need. For a price.
+Greetings, adventurer. Slay any dragons today?
+Hello. I'd shake your hand, but we don't have fingers.
+Oh, a traveler. Tell me everything.
+Welcome! Please don't feed the golem.
+Hello there. I've heard stories about you.
+Greetings. You arrived at the perfect moment.
+Hello! Want some advice? Never trust a witch.
+Ah, hello. Interested in a little business?
+Good day. Mind the lava, if you brought any.
+Hello. You're braver than you look.
+Oh, hello. The bread's fresh today.
+Greetings, friend. We're simple folk here.
+Hello there. You seem nice. Don't prove me wrong.
+Welcome, stranger. We have rules here. Mostly about doors.
+Hello. Hmm. Yes. Hello.
+Hi! Are you the new neighbor?
+Ah, greetings. I was just counting my emeralds.
+Hello, friend. Long time no see.
+Greetings. I promise our prices are fair.
+Hello. You've got that adventuring look about you.
+Oh, hello. Didn't expect company.
+Welcome, welcome. Make yourself at home. Not in my home, though.
+Hello! I think we're going to be great friends.
+Greetings, traveler. Stay off the roofs, please.
+Hello. The cartographer says you're on his map now.
+Ah, it's you. My day just got better.
+Hello there. Need anything at all?
+Good day. You really do get around, don't you?
+Hello. Are those zombie bits on your boots?
+Oh, hi. I was daydreaming.
+Welcome. Please don't take the beds again.
+Hello, friend. Let's talk.
+Greetings. Anything good in your pockets?
+Hello! You came all this way just to see me?
+Ah, hello. I could use a friend today.
+Good to see you. Be careful out there.
+Hello. You're the talk of the village, you know.
+Greetings, stranger. No running in the village.
+Hello there. Safe travels so far?
+Oh, hello. Pardon my mess.
+Welcome, friend. What will it be today?
+Hello. Did someone send you, or did you just wander in?
+Ah, greetings. Your timing is impeccable.
+Hello! I just love visitors.
+Greetings. We keep the torches lit for folks like you.
+
+[greet_night]
+It's late, friend. Shouldn't you be inside?
+Hello. Quickly, before the zombies see us.
+Good evening. Or is it morning? It's so dark.
+You're out late. Are you mad?
+Hello. I should be in bed, you know.
+Shh. Keep your voice down, it's night.
+Ah, a night owl. Hello.
+Evening, traveler. Did you hear the groaning?
+Hello. Please tell me you have a torch.
+It's dark out. What are you doing?
+Good evening. The moon's bright tonight.
+Hello, but make it quick. I'm sleepy.
+Evening. Stay close to the light.
+Oh, it's you. I thought you were a zombie.
+Hello. Have you seen my bed? I lost it.
+You should rest. Phantoms come for the sleepless.
+Evening, friend. The stars are out.
+Hello. I don't trade with skeletons, so I'm glad you're not one.
+It's past my bedtime, but hello.
+Good night. I mean, good evening. I'm tired.
+Out wandering at night? Brave or foolish.
+Hello. Keep an eye on the dark corners.
+Evening. Did you lock the doors?
+Hmm, a visitor at this hour?
+Hello. Make it quick, the creepers are out.
+Good evening, traveler. Mind the shadows.
+Ah, hello. I can barely see you.
+It's so late. What could you possibly want?
+Hello. Are those footsteps behind you?
+Evening, friend. Strange noises tonight.
+You're lucky I'm awake. Hello.
+Good evening. Sleep is important, you know.
+Hello. Zombies have been rattling doors all night.
+Shh. Did you hear that?
+Hello, night wanderer. Watch your back.
+Evening. I couldn't sleep either.
+It's a dark night. Glad you stopped by.
+Hello. The bell was quiet tonight. That's good.
+Hmm. Visitors at night. Very suspicious.
+Evening, friend. Let's not linger outside.
+
+[greet_rain]
+Hello! Come out of the rain.
+Wet day, isn't it? Hello.
+You're soaking! Hello.
+Ah, rain. Good for the crops, bad for my mood.
+Hello. I hate getting my robe wet.
+Greetings. Did you bring an umbrella? Oh, those don't exist.
+You look like a drowned. Hello!
+Hello. The rain makes everything smell nice.
+Rainy day. Perfect for staying indoors.
+Hello, friend. Mind the puddles.
+Oh, hello. My hat is ruined.
+Greetings. The farmers are happy, at least.
+Hello. Is it raining where you came from too?
+Wet weather, warm greetings.
+Hello. Careful, the paths get muddy.
+Ah, hello. I was trying to stay dry.
+Rain again. Hello anyway.
+Hello. Do you think it will thunder?
+Greetings. You're dripping on my feet.
+Hello! Lovely day for a swim, I suppose.
+Oh, hi. Rain makes me sleepy.
+Hello. The fish are biting, they say.
+Greetings, damp traveler.
+Hello. I'd invite you in, but you're very wet.
+Rain, rain, go away. Oh, hello.
+Hello. The well is overflowing at this rate.
+Greetings. Don't track mud everywhere.
+Hello. I love the sound of rain on the roof.
+Ah, a visitor in the rain. Dedicated.
+Hello. Keep dry, if you can.
+
+[greet_hero]
+It's you! The hero of the village!
+Hero! You saved us from the raid!
+Oh, it's the hero! Everyone, look!
+Thank you, hero. We owe you everything.
+The hero honors us with a visit!
+Hero! For you, a special price.
+Without you, the pillagers would have won.
+Hero of the village! My children sing about you.
+Welcome, champion. You're always welcome here.
+I knew you'd come back, hero.
+Hero! Let me give you a discount. No arguments.
+You fought for us. I won't forget it.
+The pillagers fear your name now.
+Our protector returns!
+Hero, you can have the best bed in the village.
+Thank you again for saving my family.
+A hero walks among us. Hello!
+Is it really you? The hero? Wow.
+The whole village is grateful, hero.
+Hero! Can I touch your sword? Just kidding.
+They'll build a statue of you one day.
+You saved my crops and my life. Thank you.
+Hero, anything you need, just ask.
+Welcome back, savior of the village.
+You were so brave against the ravagers.
+Hero! The bells rang for you.
+We sleep easier because of you, hero.
+Our hero! I've saved my best trades for you.
+Hello, hero. My emeralds are your emeralds. Well, almost.
+Ah, the champion. It's an honor.
+You chased the raiders away. Thank you.
+Hero of the village! Three cheers!
+I told everyone you'd save us. And you did.
+Hero! Please, take a discount.
+Brave one, you're always welcome at my stall.
+The hero visits me? I'm blushing.
+Our savior! The children want your autograph.
+Thank you, hero. The village is safe because of you.
+Hero, you're a legend in these parts.
+Welcome, defender of the village.
+
+[greet_emerald]
+Ooh, are those emeralds?
+I see emeralds. Let's be friends.
+Emeralds! My favorite color.
+You're carrying emeralds? Hello, best friend.
+Oh my. Look at that shine.
+Hmm, I can smell emeralds on you.
+Put that emerald away before someone steals it. Like me.
+An emerald! Let's make a deal.
+My, what a lovely green gem you have.
+Emeralds talk, and I'm listening.
+Ah, a person of wealth. Welcome.
+That emerald would look nice in my pocket.
+Are you here to spend those? Please say yes.
+Emeralds! Now we're talking business.
+Is that an emerald or the sun? So bright.
+Careful waving that around, people get excited.
+You've got my full attention now.
+Shiny, shiny emerald. Hello.
+I'll trade you anything for those emeralds. Almost anything.
+Where did you get all those?
+Emeralds make the world go round.
+Oh, you brought emeralds. I knew I liked you.
+Let me see that emerald up close.
+A wealthy traveler! I'll get my best goods.
+With emeralds like that, you could buy the whole village.
+Hmm. Is that a real emerald?
+Emeralds! I haven't seen one all week.
+Ah, the green stuff. Let's talk.
+Wave that emerald a little more, I like it.
+You and your emeralds are very welcome here.
+
+[greet_nitwit]
+Hello! I don't do anything.
+What? Oh. Hello. What was I doing?
+I'm not a trader. I'm a professional stander.
+Hi. Have you seen a cloud shaped like a cow?
+Hello! I'm on a very long break.
+I don't have a job. I have hobbies. Like this.
+Hello. Want to stand here with me?
+They call me the village nitwit. I call it free time.
+Hi! I just ate a dandelion. Don't tell anyone.
+Hello! I counted all the blocks in the village. I lost count.
+I'd trade with you, but I have nothing. Literally.
+Hello, friend. I'm thinking about thinking.
+Oh! Hello. I forgot your name. I forgot mine too.
+Hi there. I'm very good at doing nothing.
+Hello! Do you think chickens dream?
+I once tried to work. It was terrible.
+Hello! Watch me stand. Amazing, right?
+Hi. I've been staring at this fence all day.
+Hello! The green robe means I'm special.
+Greetings! I am the village's best napper.
+Hello! What do you call a creeper with no friends? Me neither.
+Oh, hi. Did you know dirt is brown?
+Hello! I tried to read a book once. It was upside down.
+Hello. I'm waiting for something interesting to happen.
+Hi! Want to hear me hum? Hmm. Hmm hmm.
+Hello! I don't need a workstation. I need a nap.
+Hi there! The librarian says I'm hopeless. I agree.
+Hello! I like you. You move a lot.
+Greetings! I'm on an important mission. I forgot what it is.
+Hello! I sleep in. Every day. It's great.
+
+[greet_unemployed]
+Hello. I'm looking for work, actually.
+Hi. Do you know where I could find a workstation?
+Hello. I could be anything. A farmer, a librarian...
+Greetings. I'm between jobs right now.
+Hello! Got any job offers?
+Hi. I've been waiting for a lectern for ages.
+Hello. Place a workstation near me and see what happens.
+Greetings. I'm still figuring out what to do with my life.
+Hello. No trades yet, sorry. I'm unemployed.
+Hi! I'd love to be a cartographer someday.
+Hello. Is there a composter somewhere around here?
+Greetings. I'm available for hire.
+Hello. All my friends have jobs. Not me.
+Hi there. Know anyone who needs an apprentice?
+Hello. I'm keeping my options open.
+Greetings, traveler. Have you seen any unclaimed workstations?
+Hello. My mother wanted me to be a cleric.
+Hi. I'm ready to work, just give me a block.
+Hello! A smoker, a loom, anything really.
+Greetings. Being jobless is very relaxing, but boring.
+Hello. One day I'll have a fine stall of my own.
+Hi. Could you build me a workplace? Please?
+Hello. I'm just wandering until I find my calling.
+Greetings. The others won't share their workstations.
+Hello. I have plenty of free time. Too much.
+Hi there. Do you think I'd make a good fletcher?
+Hello. I'm not trading yet, but I'm a great listener.
+Greetings. Someone took the last job in the village.
+Hello. A brown robe and big dreams.
+Hi. I'm hoping a barrel shows up soon.
+
+[baby_greet]
+Hi! Wanna play tag?
+Hello! You're really tall!
+Hi! I'm gonna be a librarian when I grow up!
+Hello! Can you show me your sword?
+Hi! Mom says not to talk to strangers.
+Hello! Wanna see me jump?
+Hi! Do you have any cookies?
+Hello! I'm hiding from my brother.
+Hi! Are you a hero?
+Hello! Can I come on your adventure?
+Hi! I found a shiny rock!
+Hello! You smell funny!
+Hi! Tag, you're it!
+Hello! I'm not tired at all!
+Hi! Can you build me a treehouse?
+Hello! Is that a creeper behind you? Just kidding!
+Hi! I can run super fast!
+Hello! I lost my tooth! Wait, I don't have teeth.
+Hi! Wanna be my friend?
+Hello! I jumped on a bed and nobody saw!
+Hi! The golem let me ride on his shoulders!
+Hello! Where do you live?
+Hi! Can I have an emerald?
+Hello! I'm the fastest kid in the village!
+Hi! Let's play hide and seek!
+
+[greet_snow]
+Brr! Hello, traveler.
+Come in from the snow, friend.
+Hello! You've got snow on your shoulders.
+Greetings. Cold enough for you?
+Hello. Your nose is red from the cold.
+Snowy day! Hello!
+Hello. Mind the ice.
+Ah, hello. Let's get by a fire.
+Greetings, frosty traveler.
+Hello! Did you build a snow golem yet?
+Hello. My hands are frozen, so no trades. Just kidding.
+Brr. Hello. Quick, what do you need?
+Hello! Snow makes everything quieter.
+Greetings. Stay warm out there.
+Hello. You look like a snowman.
+Snowflakes and visitors. Lovely.
+Hello. Powder snow is dangerous, watch out.
+Hello! Want some hot stew?
+Greetings. The winter is long this year.
+Hello. I can see my breath. Can you?
+Ah, a visitor in the snow. How brave.
+Hello. Leather boots help in this cold.
+Greetings. Shake off that snow first.
+Hello! Snowball fight later?
+Brr. Hello, friend. Stay close to the fire.

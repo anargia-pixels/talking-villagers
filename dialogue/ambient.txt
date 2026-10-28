@@ -1,0 +1,702 @@
+# Idle chatter, triggered when a villager would normally mumble.
+
+[ambient]
+Hmm. What a lovely day.
+I wonder what's for dinner.
+Did someone leave the gate open again?
+I should visit my cousin in the next village.
+The iron golem looks grumpy today.
+Hmm, hmm, hmm.
+I heard the cleric talking to himself again.
+Where did I put my emeralds?
+The bell sounds nice from here.
+I wish I could jump higher.
+Somebody's been sleeping in my bed.
+That cat keeps following me.
+I need a vacation.
+I wonder what's under the village.
+Hmm. Smells like rain.
+Have you heard? The traveler's back.
+I counted my emeralds. One short. Hmm.
+Life's good in the village.
+These robes are itchy.
+I miss the old days.
+My feet hurt.
+The farmer's crops look good this year.
+What a beautiful sky.
+I think the librarian likes me.
+I should clean my house.
+Is it lunchtime yet?
+The well water tastes funny today.
+Did I leave the furnace on?
+Somebody stole my bread.
+I love this village.
+The wandering trader is so strange.
+Hmm. Nice clouds.
+I should learn a new trade.
+My nose is itchy.
+The golem's been standing there all day.
+That chicken is staring at me.
+I hope the pillagers stay away.
+I wonder if the moon has villagers.
+Gossip, gossip, gossip.
+Hmm. What was I doing?
+I should plant a tree.
+The bees are buzzing loudly today.
+Who built that ugly house?
+A bit of sunshine does wonders.
+My back aches.
+I could use a nap.
+The path needs fixing.
+I heard there's treasure buried somewhere.
+Hmm. Interesting.
+The kids are so noisy.
+I think it's going to be a good harvest.
+Did you hear that noise?
+Where's my hat?
+I'm hungry. Always hungry.
+Life is simple here. I like it.
+I hope the traveler brings emeralds.
+This village needs more torches.
+The flowers smell nice.
+What's that over there? Oh, nothing.
+I wonder how the golem feels.
+Have you seen the size of that pumpkin?
+I should write a letter.
+Hmm. The grass is greener over there.
+My cousin married a wandering trader. Scandal.
+The cat sleeps on my bed every night.
+I wonder what lies beyond the hills.
+I'm not nosy, I'm curious.
+Nothing ever happens here.
+Everything happens here.
+These stairs are too steep.
+Hmm. A good day to sit and think.
+That fence is crooked.
+Somebody's cooking something nice.
+I should visit the library.
+The sun's warm today.
+Who left this bucket here?
+I wish we had a bigger bell.
+I wonder if the fish are happy.
+Hmm. That cloud looks like a pig.
+My neighbor snores so loudly.
+Village life is the best life.
+I feel lucky today.
+I should trade more.
+Hmm. Busy, busy, busy.
+I found a feather. Neat.
+The traveler dug a hole by my house. Rude.
+I wonder what emeralds taste like.
+Sometimes I just like to stand.
+The cartographer got lost again.
+My house is the nicest. Don't tell anyone.
+The smith's hammering woke me up.
+Hmm. Something smells burnt.
+A creeper blew up the old barn once.
+I wonder if bees sleep.
+I need new boots.
+Where does the wandering trader get those llamas?
+I like the sound of the wind.
+Is anyone else bored?
+Hmm. Good. Very good.
+My sister lives by the sea.
+The golem patrols so diligently.
+We should throw a festival.
+I wonder who lives in the woodland mansion.
+That witch hut gives me chills.
+I should paint my door.
+Hmm. Today is a good day.
+The roof is leaking again.
+My grandmother saw the Ender Dragon once. Or so she says.
+I once saw a pig fly. With a saddle and a fishing rod.
+Did someone take the last carrot?
+I wonder if the traveler will stay.
+The nights are getting colder.
+I could go for some cake.
+Hmm. Quiet. Too quiet.
+The bees made honey. Sweet.
+Everyone's so busy today.
+Why is the sky blue?
+I heard a ghast once. Terrifying.
+The children are playing tag again.
+I should build a garden.
+Hmm. Who's that?
+The bell needs ringing.
+My bed is the comfiest.
+I wonder where the river goes.
+I love the smell of fresh bread.
+Ah. Peace and quiet.
+The golem winked at me. I think.
+I should make friends with the cats.
+Hmm. Time to work.
+Emeralds, emeralds, emeralds.
+I can't find my favorite stick.
+The roads are safer now.
+There's a llama spitting at everyone.
+Hmm. I forgot something.
+Nice weather for a walk.
+I like it when the traveler visits.
+My nose is cold.
+What a peaceful village.
+Hmm, that's odd.
+I heard pillagers in the forest.
+I should organize my chest.
+The farmer's dog is cute.
+I should retire someday.
+Hmm. Grass grows, sun shines.
+I miss my old house.
+The village is growing.
+Hmm. Interesting smell.
+Let's see what tomorrow brings.
+I need a new bed.
+That traveler is very square.
+The well echoes. Hello? Hello.
+I'm thinking of becoming a poet.
+The night was long.
+Hmm. Patience is a virtue.
+I can see my house from here.
+The mason built a lovely wall.
+I wonder what the ocean tastes like.
+Where did the golem go?
+Hmm. The sky's clear today.
+My shoes are muddy.
+I heard a rumor about a hidden temple.
+The flowers are blooming.
+I should trade with the traveler.
+Hmm. Funny.
+Is it just me, or is it warm?
+The bees are friendly today.
+My friend moved to the desert village.
+Life is good. Mostly.
+Hmm. Must remember that.
+I like the sound of the bell.
+The baby villagers grow up so fast.
+I saw a fox steal an egg.
+The golem is my hero.
+Hmm. Tomorrow I'll work harder.
+This path is so long.
+I wish I had a horse.
+Hmm. Who left the door open?
+I could use some honey.
+The village feels safe today.
+Hmm. Look at that.
+I wonder what the wandering trader thinks of us.
+Strange folk, those travelers.
+I'm thinking about rearranging my house.
+Hmm. Busy day.
+I like this spot. Good view.
+The sheep are so fluffy.
+Did anyone feed the cat?
+I need to sharpen my wits.
+Hmm. Something's different today.
+I hope the traveler builds us a wall.
+My hands are cold.
+What a lovely sunset that will be.
+I should take up fishing.
+Hmm. Busy, busy.
+The trees are so tall here.
+I once got lost in a cave. Never again.
+Hmm. All is well.
+Everyone loves the iron golem.
+I miss the wandering trader. A little.
+Hmm. Peaceful.
+
+[ambient_night]
+It's getting dark. Time for bed.
+I hear zombies.
+Lock the doors, everyone.
+The moon is so bright tonight.
+Is that a zombie? Hmm. No, a bush.
+I can't sleep.
+Owls would be nice. If we had owls.
+The stars are beautiful.
+Phantoms. I hate phantoms.
+Shh. Something's moving out there.
+Bed. I need my bed.
+Who's still awake?
+I hope the golem is watching.
+Night time is scary.
+Zombies keep knocking on my door.
+I heard bones rattling.
+The torches are flickering.
+Good night, everyone.
+Is that a spider on the roof?
+Nights are so long.
+I dreamed about emeralds last night.
+I'm scared of the dark.
+Did someone close the gate?
+The moon looks like a cookie.
+I'm not afraid. Okay, a little.
+Skeletons. Ugh.
+The village is quiet at night.
+I should be in bed.
+Hissss. Was that a creeper?
+Who left the torch out?
+Dark nights, cold beds.
+Hmm. Shadows everywhere.
+The golem never sleeps.
+I'll just stay inside, thank you.
+Something's growling outside.
+Night is when the monsters come.
+I hope morning comes soon.
+Is that the wandering trader at night? Odd.
+I can hear the crickets.
+Stars, stars, so many stars.
+I wish the sun would come back.
+The zombies are loud tonight.
+I'll count sheep.
+Ugh. Can't sleep again.
+The bell's quiet. Good.
+Is anyone else awake?
+Hmm. Cold tonight.
+I think I saw an enderman.
+Don't look at the endermen.
+Night, night.
+Who's out there?
+The dark makes me jumpy.
+I miss the sunshine.
+That's a lot of zombies.
+Phantoms circling. Someone go to sleep.
+Shh. Sleep, everyone.
+My candle's running low.
+A full moon. Spooky.
+Bats. Ugh, bats.
+Dreams are strange lately.
+
+[ambient_rain]
+Rain, rain, go away.
+At least the crops are happy.
+My robe is soaked.
+I love the sound of rain.
+Puddles everywhere.
+The roof's leaking again.
+Perfect weather for a nap.
+I'm staying inside today.
+The well is overflowing.
+Mud, mud, mud.
+Rain's good for the wheat.
+I hope it doesn't thunder.
+Wet feet. Ugh.
+The fish like the rain.
+Rainy days are cozy.
+Achoo! Cold rain.
+The river's getting high.
+I smell wet dirt. Lovely.
+Rain again? Really?
+Everyone's inside but me.
+My hat's ruined.
+The flowers are drinking.
+Rain makes me sleepy.
+The farmers are dancing in the rain.
+Drip, drip, drip.
+The sky is crying today.
+The golem's getting rusty in this rain.
+I'll just stand under this roof.
+Rain washes everything clean.
+No zombies burning today. Ugh.
+My candles won't stay lit.
+The chickens look miserable.
+I need a bigger roof.
+Rain in the morning, rain at night.
+Fishermen love this weather.
+I like the rain. Don't tell anyone.
+The paths are so muddy.
+Soggy bread for lunch.
+Shh. Listen to the rain.
+A rainbow might come out later.
+Hmm. Gloomy weather.
+My bed is so cozy when it rains.
+Everything's wet.
+The cat hates the rain.
+More rain, more crops.
+The well's full now.
+Rain drums on the roof.
+I'll stay dry. Somehow.
+Wet villagers, happy farmers.
+I miss the sun.
+
+[ambient_thunder]
+Thunder! Everyone inside!
+That lightning was close!
+Did that bolt hit the church?
+I hate thunderstorms.
+Witches come from lightning, they say.
+Stay away from the pigs during storms!
+Boom! My ears!
+The sky is angry today.
+Hide under the bed!
+Lightning! Run!
+This storm is terrible.
+Is the golem okay?
+I heard creepers get charged in storms.
+The thunder shook my house.
+I'm not scared. I'm cautious.
+Lightning! Look at that flash!
+Mobs come out in storms.
+Close the shutters!
+The storm won't stop.
+Make it stop!
+Did lightning hit the tree?
+My heart is racing.
+Thunder is so loud.
+I miss quiet rain.
+Please, no fires.
+
+[ambient_danger]
+Zombie! Zombie!
+Help! Monsters!
+Someone ring the bell!
+Run! Run!
+Golem! Help us!
+I see something scary!
+Get away! Shoo!
+Everyone inside!
+Monsters in the village!
+Somebody help!
+It's coming closer!
+I don't want to be a zombie!
+Protect the children!
+Where's the golem when you need it?
+Ahh! Stay back!
+Close the doors!
+It's a monster!
+Traveler, save us!
+I'm too young to be zombified!
+Not again!
+Hide! Hide!
+Somebody do something!
+Back, foul creature!
+Oh no, oh no, oh no.
+Don't let it in!
+Help! I'm not armored!
+Ring the bell! Ring it!
+Hide in the house!
+The monsters are here!
+Get it away from me!
+Run to the bell!
+Hero, help!
+Eek!
+I hear groaning nearby!
+It's so close!
+Quick, find a bed!
+Is anyone brave here?
+I can't fight!
+Danger! Danger!
+Stay away!
+Somebody protect me!
+Golem, smash it!
+Watch out!
+The monsters are getting closer!
+I'm not food!
+Go away!
+We need walls!
+Run for your life!
+Shoo! Shoo, monster!
+I'm hiding now. Bye.
+
+[ambient_morning]
+Good morning, village!
+What a beautiful sunrise.
+Time to get to work.
+Morning already?
+Rise and shine, everyone!
+I slept so well.
+The rooster's late today.
+Fresh morning air.
+Breakfast time!
+Another day, another emerald.
+I love mornings.
+Good morning, golem!
+The sun is up. The zombies burn.
+Hmm. Coffee would be nice. If it existed.
+Five more minutes.
+The birds are singing.
+Morning dew on the grass.
+Let's make today count.
+I had the strangest dream.
+Up and at them!
+The sunrise is gorgeous.
+Morning, neighbors!
+I'm still sleepy.
+A fresh day begins.
+Let's get trading!
+Morning. Ugh.
+The bread's baking already.
+The village is waking up.
+A new day, new trades.
+Good morning, world!
+I could sleep another hour.
+Morning chores. Ugh.
+Bright and early!
+The sun is warm.
+Did anyone see the sunrise?
+Time to tend the fields.
+Morning stretches.
+Sun's up, zombies down.
+What a lovely morning.
+Morning, sunshine!
+
+[ambient_evening]
+The sun's going down.
+Time to head home.
+What a long day.
+Evening already?
+The sunset is beautiful.
+Dinner time!
+Almost bedtime.
+Another day done.
+I'm so tired.
+The sky's turning orange.
+Let's get inside before dark.
+Long day, good work.
+I'll sleep well tonight.
+Evening breeze. Lovely.
+Hmm. Bed soon.
+The day went by so fast.
+Time to rest.
+The stars will be out soon.
+Wrap it up, everyone!
+I can smell supper.
+Where's my bed again?
+Did we lock the gate?
+Ah, a calm evening.
+Sun's setting. Monsters soon.
+The sky's on fire. Pretty.
+One last trade before bed?
+Golden hour.
+Home, sweet home.
+Evening, friends.
+Hmm. Getting dark.
+Soon it'll be quiet.
+I worked hard today.
+Lights on, doors shut.
+Time to gossip at the bell.
+The evening's peaceful.
+What a sunset.
+I'll finish tomorrow.
+Night's coming.
+Bed, bed, bed.
+Good evening, village.
+
+[ambient_nitwit]
+Hmm. I forgot how to walk.
+Is the grass always green?
+I'm a cloud. A green cloud.
+I don't work. I wander.
+What's a job?
+I like turtles.
+Hmm. Thinking is hard.
+Why do chickens cross the road?
+I licked the fence. Don't do that.
+I'm not lazy. I'm conserving energy.
+Ooh, a flower.
+Where am I?
+Doing nothing is exhausting.
+I tried to trade a pebble. No luck.
+I'm the village's best stander.
+What's that sound? Oh, it's me.
+I like my green robe.
+Hmm. Butterflies.
+I'll get a job tomorrow. Or never.
+I talk to the cows. They don't answer.
+Clouds are fluffy.
+I named a rock Gerald.
+Why is everyone so busy?
+I'm on break. Forever.
+Hmm. Interesting dirt.
+I forgot my name again.
+Look at me, I'm a farmer. Not really.
+I'm the happiest one here.
+What day is it?
+Hmm. I like being me.
+
+[ambient_unemployed]
+I need a job.
+Is there a workstation free?
+Maybe I'll be a farmer.
+Everyone has a job but me.
+Hmm. What's my calling?
+Lecterns. I want a lectern.
+I'd make a great cleric.
+Unemployment is boring.
+Somebody hire me!
+I'll find my place soon.
+A composter would be nice.
+Maybe a loom?
+I'm ready to work.
+I've been waiting forever.
+Hmm. Cartographer sounds fun.
+I need purpose.
+So much free time.
+Could I be a fisherman?
+Brown robes, no job.
+Someday, I'll have a stall.
+Is that a workstation? Oh, it's taken.
+I'm learning by watching.
+Smithing looks hard.
+Hmm. Maybe tomorrow.
+I just need a chance.
+
+[baby_ambient]
+Wheee!
+I'm gonna be a hero!
+Tag! You're it!
+I'm hungry!
+Let's play!
+Look, a butterfly!
+I'm the fastest!
+Mommy!
+Hide and seek!
+I found a cat!
+Can't catch me!
+I'm not sleepy!
+Bouncy beds are the best!
+I'm gonna be a librarian!
+Weee, jumping!
+I like the golem!
+Ha ha ha!
+Where's everyone?
+I found a flower!
+Look at me!
+Chickens are funny!
+I'm a big villager now!
+Race you!
+Hee hee!
+Let's go exploring!
+I'm brave!
+Tickle!
+I want cookies!
+Playtime!
+The golem is so big!
+Look, a bug!
+I'm not tired! Yawn.
+I got a feather!
+Woo hoo!
+Faster, faster!
+You can't find me!
+I'm gonna be the best farmer!
+Are we there yet?
+I did a jump!
+Come play!
+
+[ambient_snow]
+Brr! It's snowing!
+Look at all this snow.
+My nose is frozen.
+Snow again? I can't feel my toes.
+I love the first snowfall.
+Who wants to build a snow golem?
+The fields are all white.
+Brr. I need a warmer robe.
+Snowflakes on my nose!
+The paths are so slippery.
+It's freezing out here.
+Snow makes the village so quiet.
+I should shovel my doorstep.
+The crops won't like this cold.
+Brr, brr, brr.
+Everything looks so pretty in the snow.
+Careful, don't fall in the powder snow.
+My fingers are numb. Wait, I don't have fingers.
+I wish I had leather boots.
+Cold, cold, cold.
+Snowball fight later?
+The well's frozen over.
+Snow on the roofs. Lovely.
+I'll stay by the furnace today.
+My breath is turning to mist.
+The children will love this.
+Brr. I miss summer.
+The snow is up to my knees.
+Hot stew, that's what I need.
+Wrap up warm, everyone.
+It's a winter wonderland.
+Strays wander in this weather. Stay alert.
+I can't tell where the path is.
+Snow, snow, beautiful snow.
+I think my eyebrows froze.
+
+[flee_zombie]
+Zombie! Run!
+It's a zombie! Get away from me!
+Don't bite me! Please!
+Brains? No, no, not my brains!
+Zombie in the village! Help!
+I don't want to turn green!
+It's chasing me!
+Get to a house! Shut the door!
+Doors! Somebody close the doors!
+It's groaning at me!
+Golem! There's a zombie!
+Stay back, you rotten thing!
+I'm too fresh to be zombified!
+Faster, legs, faster!
+It smells horrible!
+Why is it always zombies?
+Run! It's right behind me!
+The sun can't come soon enough!
+Somebody burn it!
+Ahh! Its arms are out!
+I'm not tasty! I promise!
+Help! It's a husk!
+Zombies! Everywhere!
+It's after me!
+Don't let it touch you!
+Hide! Hide! Zombie!
+The zombie's banging on the door!
+Get away! Shoo! Shoo!
+I can hear it shuffling!
+It's getting closer!
+Not my house! Not my bed!
+A zombie with a baby zombie! Run!
+Iron golem, smash it!
+I can't outrun it forever!
+Ring the bell!
+I'm locking myself in!
+Ugh, the smell!
+Go back to your cave!
+Traveler! Zombie! Do something!
+I'm running, I'm running!
+
+[flee_pillager]
+Pillagers! Run!
+Raiders! Hide!
+They're coming for us!
+Pillagers with crossbows! Take cover!
+Ring the bell! It's a raid!
+Ravager! Run for your lives!
+Evoker! Watch out for the fangs!
+They burned the next village!
+Hide in your homes!
+Don't let them take the village!
+Help! Illagers!
+Vindicator with an axe! Run!
+They're everywhere!
+I saw their banner!
+Arrows! Duck!
+The raid is here!
+Get inside! Now!
+Hero! The pillagers are back!
+Bolt the doors!
+Golem, fight them!
+Not the pillagers again!
+I don't want to be captured!
+Hide the emeralds!
+They're shooting at us!
+Witches are with them too!
+Stay down! Stay down!
+Their leader's here!
+Run to the bell!
+I hate pillagers!
+Protect the children!
+The ravager is wrecking everything!
+Vexes! Flying vexes!
+Somebody fight them!
+Please, spare us!
+They're surrounding the village!
+I'm hiding under my bed!
+Defend the village!
+The illagers have come!
+Don't look them in the eye!
+Run! Raiders!
