@@ -1,5 +1,7 @@
 # Talking Villagers
 
+<img src="src/main/resources/assets/talkingvillagers/icon.png" width="96" alt="Talking Villagers icon">
+
 A client-side Fabric mod for Minecraft 26.3. It gives villagers voices. They greet you,
 gossip, haggle, complain about the rain and snow, grumble at night, yell when zombies or
 pillagers chase them, and say "ow" when you hit them.
@@ -11,6 +13,12 @@ pillagers chase them, and say "ow" when you hit them.
   no background, stacked above the villager's name if it has one.
 - Lines also show as subtitles when subtitles are on.
 - Plays on the **Voice/Speech** volume slider.
+
+## Install
+
+Download the jar from [Releases](https://github.com/anargia-pixels/talking-villagers/releases)
+and put it in your `mods` folder alongside [Fabric API](https://modrinth.com/mod/fabric-api).
+It only needs to be installed on the client, and it works on servers that don't have it.
 
 ## How it stays lightweight
 

@@ -6,6 +6,7 @@
 	"description": "Villagers speak out loud: greetings, gossip, trade banter, complaints about the weather, and panic when zombies or pillagers show up. Over 2000 voiced lines in 8 adult voices plus child voices. Client-side, driven by vanilla villager sound events, so it costs nothing per tick.",
 	"authors": ["doctorthe113"],
 	"license": "MIT",
+	"icon": "assets/talkingvillagers/icon.png",
 	"environment": "client",
 	"entrypoints": {
 		"client": ["dev.doctorthe113.talkingvillagers.TalkingVillagersClient"],
