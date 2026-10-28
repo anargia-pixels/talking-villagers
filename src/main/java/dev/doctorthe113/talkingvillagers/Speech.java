@@ -71,11 +71,43 @@ public final class Speech {
 		lines = loaded;
 	}
 
+	/** Turns the mod on or off. Off stops anything being said and lets go of it. */
+	public static void setEnabled(boolean enabled) {
+		TalkingVillagersConfig.get().enabled = enabled;
+		TalkingVillagersConfig.save();
+		if (!enabled) {
+			reset();
+		}
+	}
+
+	/**
+	 * Stops all lines and forgets them. Each line holds its villager, so this also
+	 * matters on leaving a world: otherwise the old world couldn't be freed.
+	 */
+	static void reset() {
+		Minecraft mc = Minecraft.getInstance();
+		for (Line line : speaking.values()) {
+			mc.getSoundManager().stop(line.sound());
+		}
+		speaking.clear();
+		speaking.trim();
+		lastLine.clear();
+		lastSituation = null;
+	}
+
+	/** Lines currently tracked; for the game tests. */
+	static int trackedLines() {
+		return speaking.size();
+	}
+
 	/**
 	 * Called for every sound the client plays. Returns true to cancel the vanilla sound,
 	 * either because a spoken line replaces it or the villager is mid-sentence.
 	 */
 	public static boolean onVanillaSound(SoundInstance sound) {
+		if (!TalkingVillagersConfig.get().enabled) {
+			return false;
+		}
 		Identifier id = sound.getIdentifier();
 		if (!"minecraft".equals(id.getNamespace())) {
 			return false;
@@ -88,7 +120,7 @@ public final class Speech {
 		Minecraft mc = Minecraft.getInstance();
 		LocalPlayer player = mc.player;
 		ClientLevel level = mc.level;
-		if (!config.enabled || player == null || level == null || lines.counts().isEmpty()
+		if (player == null || level == null || lines.counts().isEmpty()
 				|| player.distanceToSqr(sound.getX(), sound.getY(), sound.getZ()) > MAX_DISTANCE_SQR) {
 			return false;
 		}

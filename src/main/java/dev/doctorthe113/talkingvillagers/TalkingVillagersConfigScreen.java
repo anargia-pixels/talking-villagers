@@ -41,7 +41,8 @@ public class TalkingVillagersConfigScreen extends Screen {
 
 		addRenderableWidget(new StringWidget(0, y - 24, width, 9, title, font));
 
-		y = toggle(x, y, "Talking villagers", null, config.enabled, v -> config.enabled = v);
+		y = toggle(x, y, "Talking villagers", "Off stops all villager speech; the game behaves as if the mod weren't there.",
+				config.enabled, Speech::setEnabled);
 		y = toggle(x, y, "Speech above heads", "Show what villagers say as floating text above them.",
 				config.showSpeechText, v -> config.showSpeechText = v);
 		y = choice(x, y, "Speech text range", "How close a villager must be for its words to show.",

@@ -1,6 +1,7 @@
 package dev.doctorthe113.talkingvillagers;
 
 import net.fabricmc.api.ClientModInitializer;
+import net.fabricmc.fabric.api.client.networking.v1.ClientPlayConnectionEvents;
 import net.fabricmc.fabric.api.event.player.UseEntityCallback;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.InteractionResult;
@@ -16,6 +17,10 @@ public class TalkingVillagersClient implements ClientModInitializer {
 	public void onInitializeClient() {
 		TalkingVillagersConfig.load();
 		Speech.init(Lines.load(TalkingVillagersConfig.get().disabledVoices));
+
+		// Lines hold their villager; drop them with the world. Disconnect can fire
+		// off the main thread, and sounds must be stopped on it.
+		ClientPlayConnectionEvents.DISCONNECT.register((handler, client) -> client.execute(Speech::reset));
 
 		// Everything else is driven by vanilla villager sounds (see SoundManagerMixin),
 		// so the mod does no work per tick.

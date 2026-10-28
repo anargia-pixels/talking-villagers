@@ -100,6 +100,30 @@ public class TalkingVillagersGameTest implements FabricClientGameTest {
 			if (!indoors) {
 				throw new AssertionError("never heard an indoor greeting");
 			}
+
+			// Switching the mod off (what the Mod Menu toggle does) silences it at once
+			// and lets go of everything it was holding.
+			context.waitTicks(20 * 4);
+			reset();
+			interact(context, server);
+			expectLine(context, "greeting before disabling", c -> c.startsWith("greet"), 40);
+			context.runOnClient(mc -> Speech.setEnabled(false));
+			context.waitTick();
+			int tracked = context.computeOnClient(mc -> Speech.trackedLines());
+			if (tracked != 0) {
+				throw new AssertionError("disabling left " + tracked + " lines tracked");
+			}
+			reset();
+			server.runCommand("damage @e[type=minecraft:villager,limit=1] 1 minecraft:generic");
+			interact(context, server);
+			context.waitTicks(40);
+			boolean silent = context.computeOnClient(mc -> Speech.lastCategory == null
+					&& Speech.trackedLines() == 0 && Speech.currentText(villager(mc).getId()) == null);
+			if (!silent) {
+				throw new AssertionError("still talking while disabled: " + Speech.lastCategory);
+			}
+			TalkingVillagersClient.LOGGER.info("[gametest] disabled: silent, nothing tracked");
+			context.runOnClient(mc -> Speech.setEnabled(true));
 		}
 	}
 
