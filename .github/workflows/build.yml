@@ -1,0 +1,30 @@
+name: Build
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-java@v5
+        with:
+          distribution: temurin
+          java-version: 25
+
+      - uses: gradle/actions/setup-gradle@v5
+
+      # Compiles the mod and the game tests, and runs the unit tests. The client
+      # game test opens the game, so it isn't run here.
+      - run: ./gradlew build compileGametestJava
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: talking-villagers
+          path: build/libs/*.jar
+          retention-days: 14
