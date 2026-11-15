@@ -134,3 +134,7 @@ python3 -I tools/showcase.py                                    # needs ffmpeg
 from their position, so add new lines at the end of a section. The categories the mod
 picks from are in `Situation.java` and `Speech.java`. A missing category (for example a
 modded profession) falls back to the generic one.
+
+## License
+
+[GNU AGPL v3](LICENSE).
