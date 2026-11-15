@@ -23,7 +23,7 @@ jobs:
       # game test opens the game, so it isn't run here.
       - run: ./gradlew build compileGametestJava
 
-      - uses: actions/upload-artifact@v5
+      - uses: actions/upload-artifact@v7
         with:
           name: talking-villagers
           path: build/libs/*.jar
