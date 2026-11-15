@@ -6,9 +6,15 @@ A client-side Fabric mod for Minecraft 26.3. It gives villagers voices. They gre
 gossip, haggle, complain about the rain and snow, grumble at night, yell when zombies or
 pillagers chase them, and say "ow" when you hit them.
 
+![A librarian greets the player, a baby villager chatters, then a zombie shows up and the farmer and librarian panic](docs/media/showcase.gif)
+
+The GIF is silent. [Watch it with sound](docs/media/showcase.mp4).
+
 - About 2,300 voiced lines, each in 8 adult voices (male, female, deep, low, high male,
   high female, gruff, lady) and 2 child voices for baby villagers.
 - Each villager keeps one voice and a slight personal pitch for life, based on its UUID.
+- Vanilla "hmm" sounds are re-pitched to match that voice, so a villager with a woman's
+  or a higher voice doesn't mumble like a man.
 - The words float above the villager's head while it talks: nametag-style text with
   no background, stacked above the villager's name if it has one.
 - Lines also show as subtitles when subtitles are on.
@@ -111,6 +117,16 @@ The client game test (`src/gametest`) creates a superflat world and checks the h
 zombie, pillager, snow, greeting and indoor-greeting lines. For each, it confirms a
 matching line plays with a real sound, and that the head text is shown. Screenshots go to
 `build/run/clientGameTest/screenshots/`.
+
+The footage at the top is recorded in-game by `src/gametest/.../TalkingVillagersShowcase.java`,
+which only runs under `runShowcase`. It saves a frame per tick and the time each line
+started, and `tools/showcase.py` turns that into `docs/media/showcase.mp4`, with the
+voice clips mixed in where they started, and a silent `showcase.gif`:
+
+```sh
+JAVA_HOME=/usr/lib/jvm/java-27-openjdk ./gradlew runShowcase   # opens the game
+python3 -I tools/showcase.py                                    # needs ffmpeg
+```
 
 ## Editing lines
 

@@ -39,6 +39,18 @@ fabricApi {
 	}
 }
 
+// README footage: ./gradlew runShowcase, then python3 -I tools/showcase.py
+loom {
+	runs {
+		showcase {
+			inherit clientGameTest
+			configName = "Showcase"
+			runDir = "build/run/showcase"
+			property("talkingvillagers.showcase", "true")
+		}
+	}
+}
+
 processResources {
 	def version = project.version
 	inputs.property "version", version

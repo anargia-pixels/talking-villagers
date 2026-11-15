@@ -1,12 +1,17 @@
 package dev.doctorthe113.talkingvillagers;
 
+import dev.doctorthe113.talkingvillagers.mixin.AbstractSoundInstanceAccessor;
 import net.fabricmc.fabric.api.client.gametest.v1.FabricClientGameTest;
 import net.fabricmc.fabric.api.client.gametest.v1.context.ClientGameTestContext;
 import net.fabricmc.fabric.api.client.gametest.v1.context.TestServerContext;
 import net.fabricmc.fabric.api.client.gametest.v1.context.TestSingleplayerContext;
 import net.minecraft.client.Minecraft;
+import net.minecraft.client.resources.sounds.EntityBoundSoundInstance;
+import net.minecraft.client.resources.sounds.SoundInstance;
 import net.minecraft.commands.arguments.EntityAnchorArgument;
 import net.minecraft.resources.Identifier;
+import net.minecraft.sounds.SoundEvents;
+import net.minecraft.sounds.SoundSource;
 import net.minecraft.world.entity.npc.villager.Villager;
 
 import java.util.List;
@@ -22,6 +27,9 @@ public class TalkingVillagersGameTest implements FabricClientGameTest {
 
 	@Override
 	public void runTest(ClientGameTestContext context) {
+		if (Boolean.getBoolean(TalkingVillagersShowcase.PROPERTY)) {
+			return;
+		}
 		TalkingVillagersConfig config = TalkingVillagersConfig.get();
 		config.ambientChance = 1f;
 		config.greetChance = 1f;
@@ -36,6 +44,21 @@ public class TalkingVillagersGameTest implements FabricClientGameTest {
 			context.waitFor(mc -> villager(mc) != null);
 			// Face it, so whoever watches the test window can see who's talking.
 			lookAtVillager(context);
+
+			// A vanilla mumble that stays a mumble is re-pitched to the villager's voice.
+			config.ambientChance = 0f;
+			float expected = context.computeOnClient(mc -> Speech.mumblePitch(villager(mc)));
+			float pitch = context.computeOnClient(mc -> {
+				SoundInstance mumble = new EntityBoundSoundInstance(SoundEvents.VILLAGER_AMBIENT, SoundSource.NEUTRAL,
+						1f, 1f, villager(mc), 0L);
+				mc.getSoundManager().play(mumble);
+				return ((AbstractSoundInstanceAccessor) mumble).talkingvillagers$getPitch();
+			});
+			config.ambientChance = 1f;
+			if (Math.abs(pitch - expected) > 1e-4f) {
+				throw new AssertionError("vanilla mumble pitch " + pitch + ", expected " + expected);
+			}
+			TalkingVillagersClient.LOGGER.info("[gametest] mumble pitch: {}", pitch);
 
 			// Hurt: should interrupt anything and yelp.
 			reset();
@@ -134,6 +157,9 @@ public class TalkingVillagersGameTest implements FabricClientGameTest {
 		if (!shown) {
 			throw new AssertionError("no speech text for the " + what + " line");
 		}
+		// Tilt up a little so two-line text above the head stays in frame.
+		context.runOnClient(mc -> mc.player.setXRot(mc.player.getXRot() - 10));
+		context.waitTick();
 		context.takeScreenshot("speech-" + what);
 	}
 

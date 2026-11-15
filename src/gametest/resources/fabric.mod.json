@@ -5,7 +5,10 @@
 	"name": "Talking Villagers game tests",
 	"environment": "client",
 	"entrypoints": {
-		"fabric-client-gametest": ["dev.doctorthe113.talkingvillagers.TalkingVillagersGameTest"]
+		"fabric-client-gametest": [
+			"dev.doctorthe113.talkingvillagers.TalkingVillagersGameTest",
+			"dev.doctorthe113.talkingvillagers.TalkingVillagersShowcase"
+		]
 	},
 	"depends": {
 		"talkingvillagers": "*"

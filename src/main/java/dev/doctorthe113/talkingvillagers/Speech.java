@@ -1,5 +1,6 @@
 package dev.doctorthe113.talkingvillagers;
 
+import dev.doctorthe113.talkingvillagers.mixin.AbstractSoundInstanceAccessor;
 import it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap;
 import it.unimi.dsi.fastutil.objects.Object2IntOpenHashMap;
 import net.minecraft.client.Minecraft;
@@ -28,6 +29,7 @@ import net.minecraft.world.level.levelgen.Heightmap;
 import net.minecraft.world.phys.AABB;
 
 import java.util.List;
+import java.util.Map;
 import java.util.UUID;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.random.RandomGenerator;
@@ -137,6 +139,10 @@ public final class Speech {
 		}
 		if (villager == null) {
 			return false;
+		}
+		// Work sounds are the job block, not the villager's voice.
+		if (trigger != Trigger.WORK) {
+			matchVoicePitch(sound, villager);
 		}
 
 		RandomGenerator random = ThreadLocalRandom.current();
@@ -417,11 +423,11 @@ public final class Speech {
 		return line != null && Minecraft.getInstance().getSoundManager().isActive(line.sound()) ? line.text() : null;
 	}
 
-	private record VoiceChoice(String id, float pitch) {
+	record VoiceChoice(String id, float pitch) {
 	}
 
 	/** Each villager keeps the same voice, plus a slight personal pitch, for life. */
-	private static VoiceChoice voice(UUID uuid, boolean baby) {
+	static VoiceChoice voice(UUID uuid, boolean baby) {
 		List<String> voices = baby ? lines.childVoices() : lines.adultVoices();
 		if (voices.isEmpty()) {
 			return null;
@@ -431,6 +437,34 @@ public final class Speech {
 		String id = voices.get((int) Math.floorMod(hash, (long) voices.size()));
 		float pitch = 0.96f + ((hash >>> 40) & 0xFF) / 255f * 0.08f;
 		return new VoiceChoice(id, pitch);
+	}
+
+	/**
+	 * Pitch for vanilla mumbles by voice, so a villager with a woman's voice doesn't
+	 * "hmm" like a man. Vanilla already raises babies' mumbles, so child voices
+	 * stay at 1. The engine caps pitch at 2, so the highest voices top out there.
+	 */
+	private static final Map<String, Float> MUMBLE_PITCH = Map.of(
+			"male", 1.0f,
+			"high_male", 1.2f,
+			"gruff", 0.9f,
+			"deep", 0.8f,
+			"female", 1.6f,
+			"high_female", 1.8f,
+			"lady", 1.5f,
+			"low", 1.35f);
+
+	/** Re-pitches a vanilla villager sound to match the villager's spoken voice. */
+	private static void matchVoicePitch(SoundInstance sound, Villager villager) {
+		if (sound instanceof AbstractSoundInstanceAccessor accessor) {
+			accessor.talkingvillagers$setPitch(accessor.talkingvillagers$getPitch() * mumblePitch(villager));
+		}
+	}
+
+	/** How much this villager's vanilla sounds are re-pitched; 1 if it has no voice. */
+	static float mumblePitch(Villager villager) {
+		VoiceChoice voice = voice(villager.getUUID(), villager.isBaby());
+		return voice == null ? 1f : MUMBLE_PITCH.getOrDefault(voice.id(), 1f) * voice.pitch();
 	}
 
 	private static void pruneFinished(SoundManager sounds) {
